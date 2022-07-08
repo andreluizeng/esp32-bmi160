@@ -1,0 +1,8 @@
+MovingAvgFilter	KEYWORD1
+begin KEYWORD2
+initValue KEYWORD2
+calculateAvg KEYWORD2
+reset KEYWORD2
+getFilterPos KEYWORD2
+getAvg KEYWORD2
+release KEYWORD2
